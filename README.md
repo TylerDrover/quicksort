@@ -2,4 +2,4 @@
 Quicksort writtten in MIPs assembly
 
 ### To Run
-Download: https://bit.ly/2vcJ5zi
+Download MARS (MIPS ssembler and Runtime Simulator): http://courses.missouristate.edu/KenVollmar/mars/

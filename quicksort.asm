@@ -1,6 +1,3 @@
-# Constants, strings, to be used in all part of the
-# CSC 350 (Spring 2019) A#2 submissions
-
 # These are similar to #define statements in a C program.
 # However, the .eqv directions *cannot* include arithmetic.
 
@@ -9,7 +6,6 @@
 .eqv  MAX_NUM_WORDS 100
 .eqv  WORD_ARRAY_SIZE 3200  # MAX_WORD_LEN * MAX_NUM_WORDS
 .eqv NEW_LINE_ASCII 10
-
 
 # Global data
 
@@ -144,15 +140,8 @@ EXIT_FPW:
 	jr $ra
 	
 	
-##########################################################
-#
-# YOUR SOLUTION MAY NOT ADD MORE GLOBAL DATA OR CONSTANTS.
-# ALL OF THE CODE FOR YOUR FUNCTION(S) MUST APPEAR AFTER
-# THIS POINT. SUBMISSIONS THAT IGNORE THIS REQUIREMENT
-# MAY NOT BE ACCEPTED FOR EVALUATION.
-#
-##########################################################
-
+#####
+#####
 
 #
 # $a0 contains the starting address of the array of strings,
